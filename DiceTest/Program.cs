@@ -2,7 +2,7 @@
 using System;
 
 
-namespace RollTheDiceLearn
+namespace DiceTest
 {
     internal class Program
     {
