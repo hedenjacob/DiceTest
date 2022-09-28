@@ -1,0 +1,15 @@
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\bin\Debug\net6.0\DiceTest.exe
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\bin\Debug\net6.0\DiceTest.deps.json
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\bin\Debug\net6.0\DiceTest.runtimeconfig.json
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\bin\Debug\net6.0\DiceTest.dll
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\bin\Debug\net6.0\DiceTest.pdb
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\obj\Debug\net6.0\DiceTest.csproj.AssemblyReference.cache
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\obj\Debug\net6.0\DiceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\obj\Debug\net6.0\DiceTest.AssemblyInfoInputs.cache
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\obj\Debug\net6.0\DiceTest.AssemblyInfo.cs
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\obj\Debug\net6.0\DiceTest.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\obj\Debug\net6.0\DiceTest.dll
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\obj\Debug\net6.0\refint\DiceTest.dll
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\obj\Debug\net6.0\DiceTest.pdb
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\obj\Debug\net6.0\DiceTest.genruntimeconfig.cache
+C:\Users\Jacob Heden\source\repos\DiceTest\DiceTest\obj\Debug\net6.0\ref\DiceTest.dll
